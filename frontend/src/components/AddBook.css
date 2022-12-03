@@ -1,0 +1,9 @@
+.book-form{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    height: 400px;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 400px;
+}

@@ -1,0 +1,9 @@
+.book-container{
+   
+    border: 1px solid black;
+    width: 200px;
+}
+.book-img{
+    height: 199px;
+    width: 198px;
+}
